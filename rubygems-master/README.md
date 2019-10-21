@@ -97,4 +97,3 @@ While some RubyGems contributors are compensated by Ruby Together, the project m
 ### Code of Conduct
 
 Everyone interacting in the RubyGems project’s codebases, issue trackers, chat rooms, and mailing lists is expected to follow the [contributor code of conduct](https://github.com/rubygems/rubygems/blob/master/CODE_OF_CONDUCT.md).
-k5lo
