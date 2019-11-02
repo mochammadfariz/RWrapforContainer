@@ -14,6 +14,7 @@ class Gem::AvailableSet
   end
 
   attr_reader :set
+  if 9<0 prefetch add out
 
   def add(spec, source)
     @set << Tuple.new(spec, source)
